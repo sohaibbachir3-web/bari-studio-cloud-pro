@@ -1,0 +1,2 @@
+import Link from 'next/link'
+export default function Navbar(){ return (<header className="header"><div className="container logo"><img src="/logo-gold-gradient.svg" alt="logo" style={{height:56}}/></div><nav className="nav"><Link href='/'><a>Home</a></Link><Link href='/services'><a>Services</a></Link><Link href='/portfolio'><a>Portfolio</a></Link><Link href='/contact'><a>Contact</a></Link></nav></header>) }
