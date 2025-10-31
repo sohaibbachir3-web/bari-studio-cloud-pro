@@ -1,0 +1,1 @@
+export default function Footer(){ return (<footer className="footer"><div className="container"><div style={{marginBottom:8}}><img src="/logo-gold-gradient.svg" alt="logo" style={{height:36}}/></div><div>© 2025 Bari Studio — All rights reserved.<br/>Crafted with ⚡ passion & precision by <strong>Sohaib Bachir</strong></div></div></footer>) }
